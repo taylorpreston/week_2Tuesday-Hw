@@ -1,0 +1,17 @@
+table {
+  border: 1px blue solid;
+}
+thead {
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+tr {
+  border: 1px blue solid;
+}
+
+td {
+  border-right: 1px green solid;
+  text-align: center;
+}
